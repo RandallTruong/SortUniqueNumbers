@@ -1,0 +1,15 @@
+C:\Users\TEMP.DESKTOP-2MGD27U.001\source\repos\Unique numbers\bin\Debug\net6.0\Unique numbers.exe
+C:\Users\TEMP.DESKTOP-2MGD27U.001\source\repos\Unique numbers\bin\Debug\net6.0\Unique numbers.deps.json
+C:\Users\TEMP.DESKTOP-2MGD27U.001\source\repos\Unique numbers\bin\Debug\net6.0\Unique numbers.runtimeconfig.json
+C:\Users\TEMP.DESKTOP-2MGD27U.001\source\repos\Unique numbers\bin\Debug\net6.0\Unique numbers.dll
+C:\Users\TEMP.DESKTOP-2MGD27U.001\source\repos\Unique numbers\bin\Debug\net6.0\ref\Unique numbers.dll
+C:\Users\TEMP.DESKTOP-2MGD27U.001\source\repos\Unique numbers\bin\Debug\net6.0\Unique numbers.pdb
+C:\Users\TEMP.DESKTOP-2MGD27U.001\source\repos\Unique numbers\obj\Debug\net6.0\Unique numbers.csproj.AssemblyReference.cache
+C:\Users\TEMP.DESKTOP-2MGD27U.001\source\repos\Unique numbers\obj\Debug\net6.0\Unique numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.DESKTOP-2MGD27U.001\source\repos\Unique numbers\obj\Debug\net6.0\Unique numbers.AssemblyInfoInputs.cache
+C:\Users\TEMP.DESKTOP-2MGD27U.001\source\repos\Unique numbers\obj\Debug\net6.0\Unique numbers.AssemblyInfo.cs
+C:\Users\TEMP.DESKTOP-2MGD27U.001\source\repos\Unique numbers\obj\Debug\net6.0\Unique numbers.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.DESKTOP-2MGD27U.001\source\repos\Unique numbers\obj\Debug\net6.0\Unique numbers.dll
+C:\Users\TEMP.DESKTOP-2MGD27U.001\source\repos\Unique numbers\obj\Debug\net6.0\ref\Unique numbers.dll
+C:\Users\TEMP.DESKTOP-2MGD27U.001\source\repos\Unique numbers\obj\Debug\net6.0\Unique numbers.pdb
+C:\Users\TEMP.DESKTOP-2MGD27U.001\source\repos\Unique numbers\obj\Debug\net6.0\Unique numbers.genruntimeconfig.cache
